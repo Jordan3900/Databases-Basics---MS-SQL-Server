@@ -1,5 +1,5 @@
 *<p align="center"> Databases-Basics---MS-SQL-Server---2018<p>
-<a href="https://softuni.bg/trainings/1972/databases-advanced-entity-framework-june-2018">  ![SoftUni logo][logo] <a/>
+<a href="https://softuni.bg/trainings/1985/database-basics-mssql-may-2018">  ![SoftUni logo][logo] <a/>
 
 [logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
 
